@@ -7,4 +7,3 @@ Our Services
 Connect With Us
  * Website: juwel-internet-service.vercel.app
  * Location: Kuliarchar, Kishoreganj
-You can copy and paste this into the editor, then scroll down and tap "Commit changes" to save.
